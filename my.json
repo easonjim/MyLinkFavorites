@@ -2,7 +2,7 @@
   {
     "id": "1",
     "type": "My-Movie",
-    "sort": 1,
+    "sort": 0,
     "description": "常用电影视频",
     "items": [
       {
@@ -42,7 +42,7 @@
   {
     "id": "2",
     "type": "My-Shop",
-    "sort": 2,
+    "sort": 0,
     "description": "常用购物网站",
     "items": [
       {
@@ -66,7 +66,7 @@
   {
     "id": "3",
     "type": "My-File",
-    "sort": 3,
+    "sort": 0,
     "description": "常用网盘",
     "items": [
       {
@@ -82,7 +82,7 @@
   {
     "id": "4",
     "type": "My-EMail",
-    "sort": 4,
+    "sort": 0,
     "description": "常用邮箱",
     "items": [
       {
@@ -106,7 +106,7 @@
   {
     "id": "5",
     "type": "My-Blog",
-    "sort": 5,
+    "sort": 0,
     "description": "常用博客",
     "items": [
       {
