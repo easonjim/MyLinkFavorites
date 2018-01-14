@@ -1,0 +1,154 @@
+[
+  {
+    "id": "1",
+    "type": "My-Movie",
+    "sort": 1,
+    "description": "常用电影视频",
+    "items": [
+      {
+        "id": "1",
+        "name": "TL95",
+        "url": "http://www.tl95.com/",
+        "sort": 1,
+        "target": "_blank",
+        "description": "更新最快最全"
+      },
+      {
+        "id": "2",
+        "name": "西瓜影音",
+        "url": "http://www.xigua15.com/",
+        "sort": 2,
+        "target": "_blank",
+        "description": "速度有点慢，但是资源更新快"
+      },
+      {
+        "id": "3",
+        "name": "腾讯视频",
+        "url": "https://v.qq.com/",
+        "sort": 3,
+        "target": "_blank",
+        "description": "腾讯视频，广告很多"
+      },
+      {
+        "id": "4",
+        "name": "优酷视频",
+        "url": "http://youku.com/",
+        "sort": 4,
+        "target": "_blank",
+        "description": "优酷视频，广告比较少"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "type": "My-Shop",
+    "sort": 2,
+    "description": "常用购物网站",
+    "items": [
+      {
+        "id": "1",
+        "name": "京东",
+        "url": "https://search.jd.com/",
+        "sort": 1,
+        "target": "_blank",
+        "description": "快，邮费贵"
+      },
+      {
+        "id": "2",
+        "name": "淘宝",
+        "url": "https://s.taobao.com/",
+        "sort": 2,
+        "target": "_blank",
+        "description": "没那么快，包邮"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "type": "My-File",
+    "sort": 3,
+    "description": "常用网盘",
+    "items": [
+      {
+        "id": "1",
+        "name": "百度网盘",
+        "url": "https://pan.baidu.com/disk/home#list/path=%2F&vmode=list",
+        "sort": 1,
+        "target": "_blank",
+        "description": "目前最快且免费的网盘"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "type": "My-EMail",
+    "sort": 4,
+    "description": "常用邮箱",
+    "items": [
+      {
+        "id": "1",
+        "name": "163",
+        "url": "http://mail.163.com/",
+        "sort": 1,
+        "target": "_blank",
+        "description": "网易"
+      },
+      {
+        "id": "2",
+        "name": "Gmail",
+        "url": "https://mail.google.com/mail/",
+        "sort": 2,
+        "target": "_blank",
+        "description": "Google邮箱"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "type": "My-Blog",
+    "sort": 5,
+    "description": "常用博客",
+    "items": [
+      {
+        "id": "1",
+        "name": "My CNBLogs",
+        "url": "http://www.cnblogs.com/easonjim",
+        "sort": 1,
+        "target": "_blank",
+        "description": "博客园个人首页"
+      },
+      {
+        "id": "2",
+        "name": "CNBlogs Edit",
+        "url": "https://i.cnblogs.com/",
+        "sort": 2,
+        "target": "_blank",
+        "description": "博客园后台"
+      },
+      {
+        "id": "3",
+        "name": "My GitHub",
+        "url": "https://github.com/easonjim",
+        "sort": 3,
+        "target": "_blank",
+        "description": "GitHub个人首页"
+      },
+      {
+        "id": "4",
+        "name": "My GitBook",
+        "url": "https://www.gitbook.com/@easonjim",
+        "sort": 4,
+        "target": "_blank",
+        "description": "GitBook个人首页"
+      },
+      {
+        "id": "5",
+        "name": "CNZZ",
+        "url": "https://web.umeng.com/main.php?c=site&a=show",
+        "sort": 5,
+        "target": "_blank",
+        "description": "CNZZ统计"
+      }
+    ]
+  }
+]
