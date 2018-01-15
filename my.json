@@ -166,5 +166,29 @@
         "description": "shadowsocks"
       }
     ]
+  },
+  {
+    "id": "6",
+    "type": "My-SS",
+    "sort": 0,
+    "description": "常用链接",
+    "items": [
+      {
+        "id": "1",
+        "name": "ishadowsocks",
+        "url": "http://isx.yt/",
+        "sort": 1,
+        "target": "_blank",
+        "description": "shadowsocks"
+      },
+      {
+        "id": "1",
+        "name": "shadowsocks8",
+        "url": "http://ss8.pm/",
+        "sort": 1,
+        "target": "_blank",
+        "description": "shadowsocks"
+      }
+    ]
   }
 ]
