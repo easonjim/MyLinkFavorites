@@ -1588,6 +1588,22 @@
         "name": "优秀网页设计",
         "description": "优秀网页设计",
         "sort": 52
+      },
+      {
+        "id": 53,
+        "url": "http://backend.blog.163.com/",
+        "target": "_blank",
+        "name": "网易杭研后台技术中心的博客",
+        "description": "网易杭研后台技术中心的博客",
+        "sort": 53
+      },
+      {
+        "id": 54,
+        "url": "http://tech.lede.com",
+        "target": "_blank",
+        "name": "网易乐得技术团队",
+        "description": "网易乐得技术团队",
+        "sort": 54
       }
     ]
   },
