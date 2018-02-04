@@ -988,6 +988,14 @@
         "name": "Linux网络教程（IP方面）",
         "description": "Linux网络教程（IP方面），详细介绍Linux下的路由，网关等概念",
         "sort": 10
+      },
+      {
+        "id": 11,
+        "url": "https://www.linux-kvm.org",
+        "target": "_blank",
+        "name": "Linux KVM官网",
+        "description": "Linux KVM官网",
+        "sort": 11
       }
     ]
   },
