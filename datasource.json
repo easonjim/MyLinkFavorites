@@ -980,6 +980,14 @@
         "name": "Linux安全网",
         "description": "Linux安全网",
         "sort": 9
+      },
+      {
+        "id": 10,
+        "url": "http://linux-ip.net",
+        "target": "_blank",
+        "name": "Linux网络教程（IP方面）",
+        "description": "Linux网络教程（IP方面），详细介绍Linux下的路由，网关等概念",
+        "sort": 10
       }
     ]
   },
