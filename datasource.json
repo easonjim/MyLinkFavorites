@@ -356,6 +356,14 @@
         "name": "携程",
         "description": "携程",
         "sort": 42
+      },
+      {
+        "id": 43,
+        "url": "https://github.com/dangdangdotcom",
+        "target": "_blank",
+        "name": "当当",
+        "description": "当当",
+        "sort": 43
       }
     ]
   },
