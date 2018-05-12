@@ -1004,6 +1004,14 @@
         "name": "Linux KVM官网",
         "description": "Linux KVM官网",
         "sort": 11
+      },
+      {
+        "id": 12,
+        "url": "http://www.jinbuguo.com/",
+        "target": "_blank",
+        "name": "金步国Linux翻译",
+        "description": "金步国Linux翻译",
+        "sort": 11
       }
     ]
   },
