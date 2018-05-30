@@ -182,10 +182,18 @@
         "description": "shadowsocks"
       },
       {
-        "id": "1",
+        "id": "2",
         "name": "shadowsocks8",
         "url": "http://ss8.pm/",
-        "sort": 1,
+        "sort": 2,
+        "target": "_blank",
+        "description": "shadowsocks"
+      },
+      {
+        "id": "3",
+        "name": "ss",
+        "url": "https://darrenliuwei.com/fuck-gfw/free-ssr.html",
+        "sort": 3,
         "target": "_blank",
         "description": "shadowsocks"
       }
