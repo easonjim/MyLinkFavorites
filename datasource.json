@@ -1011,7 +1011,15 @@
         "target": "_blank",
         "name": "金步国Linux翻译",
         "description": "金步国Linux翻译",
-        "sort": 11
+        "sort": 12
+      },
+      {
+        "id": 13,
+        "url": "http://www.filepermissions.com",
+        "target": "_blank",
+        "name": "Linux目录权限教程",
+        "description": "Linux目录权限教程",
+        "sort": 13
       }
     ]
   },
@@ -2164,6 +2172,14 @@
         "name": "Jenkov（Java）",
         "description": "Jenkov（Java）",
         "sort": 22
+      },
+      {
+        "id": 23,
+        "url": "http://www.java2s.com",
+        "target": "_blank",
+        "name": "Java教程",
+        "description": "Java教程",
+        "sort": 23
       }
     ]
   },
